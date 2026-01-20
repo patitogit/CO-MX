@@ -1,2 +1,2 @@
 ozT5bkAGRDZFaVR|Depredador: Tierras salvajes|1242898
-http://player.modocine.com/go/stream.php?repo=76600&branch=main&file=master.m3u8|1054867
+https://cdn.jsdelivr.net/gh/ChespierMoran/76600@main/master.m3u8|1054867

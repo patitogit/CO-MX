@@ -18,18 +18,18 @@
       "versionLabel": "4.99.4",
       "iconUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/XPTV.png",
       "apkUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/XSAX_GOOD.apk",
-      "description": "Requiere borrar la versión anterior.",
+      "description": "Se borrará la versión anterior.",
       "actionCommand": "clean_install",
       "buttonText": "Reinstalación Limpia"
     },
     {
       "id": "Xuper_TV_original_viejo",
-      "name": "XuperTV Original Viejo",
+      "name": "XuperTV Original Para Equipos Chinos",
       "packageName": "com.android.mgstv",
       "versionLabel": "4.34.5",
       "iconUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/XPTV.png",
       "apkUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/XO_4345.apk",
-      "description": "Requiere borrar la versión anterior.",
+      "description": "Se borrará la versión anterior.",
       "actionCommand": "clean_install",
       "buttonText": "Reinstalación Limpia"
     },
@@ -40,7 +40,7 @@
       "versionLabel": "1.5.3",
       "iconUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/DWNLDR.png",
       "apkUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/DL.apk",
-      "description": "Requiere borrar la versión anterior.",
+      "description": "Se borrará la versión anterior.",
       "actionCommand": "clean_install",
       "buttonText": "Reinstalación Limpia"
     },
@@ -51,7 +51,7 @@
       "versionLabel": "1.5",
       "iconUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/AK47.png",
       "apkUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/AK.apk",
-      "description": "Requiere borrar la versión anterior.",
+      "description": "Se borrará la versión anterior.",
       "actionCommand": "clean_install",
       "buttonText": "Reinstalación Limpia"
     }

@@ -33,5 +33,27 @@
       "actionCommand": "clean_install",
       "buttonText": "Reinstalación Limpia"
     }
+    {
+      "id": "Downloader_by_Aftvnews",
+      "name": "Downloader SAX",
+      "packageName": "com.esaba.downloader",
+      "versionLabel": "1.5.3",
+      "iconUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/DWNLDR.png",
+      "apkUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/DL.apk",
+      "description": "Requiere borrar la versión anterior.",
+      "actionCommand": "clean_install",
+      "buttonText": "Reinstalación Limpia"
+    }
+    {
+      "id": "AK47_Sports",
+      "name": "AK47 SAX",
+      "packageName": "app.aksports.live",
+      "versionLabel": "1.5",
+      "iconUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/AK47.png",
+      "apkUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/AK.apk",
+      "description": "Requiere borrar la versión anterior.",
+      "actionCommand": "clean_install",
+      "buttonText": "Reinstalación Limpia"
+    }
   ]
 }

@@ -32,7 +32,7 @@
       "description": "Requiere borrar la versión anterior.",
       "actionCommand": "clean_install",
       "buttonText": "Reinstalación Limpia"
-    }
+    },
     {
       "id": "Downloader_by_Aftvnews",
       "name": "Downloader SAX",
@@ -43,7 +43,7 @@
       "description": "Requiere borrar la versión anterior.",
       "actionCommand": "clean_install",
       "buttonText": "Reinstalación Limpia"
-    }
+    },
     {
       "id": "AK47_Sports",
       "name": "AK47 SAX",

@@ -73,7 +73,7 @@
       "versionLabel": "Ultima version",
       "iconUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/CLogosax.png",
       "apkUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/Cinehax_latest.apk",
-      "description": "Se borrará la versión anterior.",
+      "description": "Actualización normal.",
       "actionCommand": "install",
       "buttonText": "Instalar Actualización"
     }

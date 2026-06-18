@@ -71,7 +71,7 @@
       "name": "Cinehax SAX",
       "packageName": "com.cinehax",
       "versionLabel": "Ultima version",
-      "iconUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/CLogo.png",
+      "iconUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/CLogosax.png",
       "apkUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/Cinehax_latest.apk",
       "description": "Se borrará la versión anterior.",
       "actionCommand": "clean_install",

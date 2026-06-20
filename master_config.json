@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "base_urls": {
+    "pelisjuanita": "https://pelisjuanita.com",
+    "lamovie_api": "https://lamovie.org/wp-api/v1",
+    "cinemacity": "https://cinemacity.cc"
+  },
+  "mirrors": {
+    "api_wp": ["https://cuevana.gs", "https://www.poseidonhd2.co"],
+    "nextjs": ["https://www.cuevana8.eu"],
+    "streamwish": ["hanerix.com", "masukestin.com", "audinifer.com", "vibuxer.com", "hgplaycdn.com"],
+    "filelions": ["callistanise.com", "filelions.to", "filelions.site"],
+    "vidhide": ["callistanise.com", "vidhidepro.com", "vidhide.com", "pahe.win"],
+    "voe": ["lauradaydo.com", "crystaltreatmenteast.com"]
+  },
+  "priorities": [
+    "dood", "streamwish", "vidhide", "earnvids", "vimeos", "filelions", "filemoon", "byse", "voe"
+  ],
+  "magic_vars": {
+    "nuupload_default_magic": 798615,
+    "pelispedia_pow_difficulty_default": 3
+  }
+}

@@ -76,6 +76,17 @@
       "description": "Actualización normal.",
       "actionCommand": "install",
       "buttonText": "Instalar Actualización"
+    },
+    {
+      "id": "Crexify_tv",
+      "name": "Crexify TV",
+      "packageName": "com.crexify.tv",
+      "versionLabel": "4.1.2",
+      "iconUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/CFTV.png",
+      "apkUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/CFTV.apk",
+      "description": "Actualización normal.",
+      "actionCommand": "install",
+      "buttonText": "Instalar Actualización"
     }
   ]
 }

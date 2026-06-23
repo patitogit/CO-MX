@@ -1,17 +1,22 @@
 {
   "nextflix": [
-    "https://f005.backblazeb2.com/file/vidads/mascota_nextflix.mp4"
+    "https://f005.backblazeb2.com/file/vidads/mascota_nextflix.mp4",
+    "https://gzendc10.codephp22np.workers.dev/?id=17gEiy999F1dBlvRq0nJuNdKjJA6QJWBL/mascota_nextflix.mp4"
   ],
   "cinehax": [
     "https://f005.backblazeb2.com/file/vidads/anuncio_cinehax.mp4",
-    "https://f005.backblazeb2.com/file/vidads/anuncio_cinehax2.mp4"
+    "https://f005.backblazeb2.com/file/vidads/anuncio_cinehax2.mp4",
+    "https://gzendc10.codephp22np.workers.dev/?id=15c05wH7Zz1Jre0ISRu7_bs9kvrDD3DvM/anuncio_cinehax.mp4",
+    "https://gzendc10.codephp22np.workers.dev/?id=16VMg-r1u4IGcvAN5J_p_4ArHlAJJ5_ZD/anuncio_cinehax2.mp4"
   ],
   "modocine": [
     "https://f005.backblazeb2.com/file/vidads/anuncio_modocine.mp4",
-    "https://f005.backblazeb2.com/file/vidads/anuncio_modocine2.mp4"
+    "https://f005.backblazeb2.com/file/vidads/anuncio_modocine2.mp4",
+    "https://gzendc10.codephp22np.workers.dev/?id=1I49vsa7fjLsCsyvCoZ8amV6tXz0T0C4O/anuncio_modocine.mp4",
+    "https://gzendc10.codephp22np.workers.dev/?id=1-tJZl3BUWhNyXOz281keyrmt0gtqfN56/anuncio_modocine2.mp4"
   ],
     "okpeliz": [
-    "https://gzendc10.codephp22np.workers.dev/?id=19R6jymG0lWYawg5wN0lRFSYaVPjZokiJ/anuncio_okpeliz.mp4",
-    "https://gzendc10.codephp22np.workers.dev/?id=1SLTQhYDh4BQOa3MVGUaWcjfK8Ta6LnN5/anuncio_okpelisz.mp4"	
+    "",
+    ""	
   ]
 }

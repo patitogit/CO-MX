@@ -91,7 +91,7 @@
     {
       "id": "Tizeneube_tv",
       "name": "TizenTube AndroidTV",
-      "packageName": "io.gh.reisxd.tizentube,cobalt",
+      "packageName": "io.gh.reisxd.tizentube.cobalt",
       "versionLabel": "2.0.2",
       "iconUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/CO_ORI.png",
       "apkUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/CO_ORI.apk",

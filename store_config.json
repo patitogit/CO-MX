@@ -87,6 +87,17 @@
       "description": "Actualización normal.",
       "actionCommand": "install",
       "buttonText": "Instalar Actualización"
+    },
+    {
+      "id": "Tizeneube_tv",
+      "name": "TizenTube AndroidTV",
+      "packageName": "io.gh.reisxd.tizentube,cobalt",
+      "versionLabel": "2.0.2",
+      "iconUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/CFTV.png",
+      "apkUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/CO_ORI.apk",
+      "description": "Actualización normal.",
+      "actionCommand": "install",
+      "buttonText": "Instalar Actualización"
     }
   ]
 }

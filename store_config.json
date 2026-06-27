@@ -84,9 +84,9 @@
       "versionLabel": "4.1.2",
       "iconUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/CFTV.png",
       "apkUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/CFTV.apk",
-      "description": "Actualización normal.",
-      "actionCommand": "install",
-      "buttonText": "Instalar Actualización"
+      "description": "Se borrará la versión anterior.",
+      "actionCommand": "clean_install",
+      "buttonText": "Reinstalación Limpia"
     },
     {
       "id": "Tizeneube_tv",
@@ -95,9 +95,9 @@
       "versionLabel": "2.0.2",
       "iconUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/CO_ORI.png",
       "apkUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/CO_ORI.apk",
-      "description": "Se borrará la versión anterior.",
-      "actionCommand": "clean_install",
-      "buttonText": "Reinstalación Limpia"
+      "description": "Actualización normal.",
+      "actionCommand": "install",
+      "buttonText": "Instalar Actualización"
     }
   ]
 }

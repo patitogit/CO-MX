@@ -89,7 +89,7 @@
       "buttonText": "Reinstalación Limpia"
     },
     {
-      "id": "Tizeneube_tv",
+      "id": "TizeneTube_tv",
       "name": "TizenTube AndroidTV",
       "packageName": "io.gh.reisxd.tizentube.cobalt",
       "versionLabel": "2.0.2",

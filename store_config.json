@@ -7,9 +7,9 @@
       "versionLabel": "4.99.4",
       "iconUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/XPTV.png",
       "apkUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/XO_GOOD.apk",
-      "description": "Actualización normal",
-      "actionCommand": "install",
-      "buttonText": "Instalar Actualización"
+      "description": "Se borrará la versión anterior.",
+      "actionCommand": "clean_install",
+      "buttonText": "Reinstalación Limpia"
     },
     {
       "id": "Xuper_TV_sax",

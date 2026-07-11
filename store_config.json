@@ -98,6 +98,17 @@
       "description": "Actualización normal.",
       "actionCommand": "install",
       "buttonText": "Instalar Actualización"
+    },
+    {
+      "id": "Reezn_tv",
+      "name": "Reezn",
+      "packageName": "com.rmedia.rplayer",
+      "versionLabel": "2.0.14",
+      "iconUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/RZN.png",
+      "apkUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/RZN.apk",
+      "description": "Actualización normal.",
+      "actionCommand": "install",
+      "buttonText": "Instalar Actualización"
     }
   ]
 }

@@ -109,6 +109,17 @@
       "description": "Actualización normal.",
       "actionCommand": "install",
       "buttonText": "Instalar Actualización"
+    },
+    {
+      "id": "Streamflix_tv",
+      "name": "Streamflix",
+      "packageName": "com.streamflixreborn.streamflix",
+      "versionLabel": "1.7.228",
+      "iconUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/SFLX.jpg",
+      "apkUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/SFLX.apk",
+      "description": "Actualización normal.",
+      "actionCommand": "install",
+      "buttonText": "Instalar Actualización"
     }
   ]
 }

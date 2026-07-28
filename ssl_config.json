@@ -1,0 +1,6 @@
+{
+  "force_http_domains": [
+    "mediafire.com",
+    "ejemplo-servidor-caido.net"
+  ]
+}

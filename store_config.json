@@ -95,9 +95,9 @@
       "versionLabel": "Ultima Version",
       "iconUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/SMTB.png",
       "apkUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/SMTB.apk",
-      "description": "Se borrará la versión anterior.",
-      "actionCommand": "clean_install",
-      "buttonText": "Reinstalación Limpia"
+      "description": "Actualización normal.",
+      "actionCommand": "install",
+      "buttonText": "Instalar Actualización"
     },
     {
       "id": "TizeneTube_tv",

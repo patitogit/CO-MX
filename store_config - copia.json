@@ -1,12 +1,34 @@
 {
   "apps": [
     {
+      "id": "Xuper_TV_original",
+      "name": "XuperTV Original",
+      "packageName": "com.android.mgstv",
+      "versionLabel": "4.99.5",
+      "iconUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/XPTV.png",
+      "apkUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/XO_GOOD.apk",
+      "description": "Se borrará la versión anterior.",
+      "actionCommand": "clean_install",
+      "buttonText": "Reinstalación Limpia"
+    },
+    {
       "id": "Xuper_TV_sax",
       "name": "XuperTV SAX",
       "packageName": "com.android.s1xis",
       "versionLabel": "4.99.4",
       "iconUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/XPTV.png",
       "apkUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/XSAX_GOOD.apk",
+      "description": "Se borrará la versión anterior.",
+      "actionCommand": "clean_install",
+      "buttonText": "Reinstalación Limpia"
+    },
+    {
+      "id": "Xuper_TV_original_viejo",
+      "name": "XuperTV Original Para Equipos Chinos",
+      "packageName": "com.android.mgstv",
+      "versionLabel": "4.34.5",
+      "iconUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/XPTV.png",
+      "apkUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/XO_4345.apk",
       "description": "Se borrará la versión anterior.",
       "actionCommand": "clean_install",
       "buttonText": "Reinstalación Limpia"

@@ -87,3 +87,6 @@
 1204680|coyote-vs-acme
 353208|la-cameriera-nera
 194117|la-donna-della-luna
+1384216|the-dog-stars
+1439808|hadestown-the-musical
+

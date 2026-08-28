@@ -1,3 +1,27 @@
 {
-  "version": 116
+  "version": 116,
+  "sources": {
+    "cuevana": {
+      "version": 116,
+      "files": [
+        "cuevana_peliculas.db",
+        "cuevana_series.db"
+      ]
+    },
+    "pelisjuanita": {
+      "version": 116,
+      "files": [
+        "pelisjuanita_peliculas.db",
+        "pelisjuanita_series.db"
+      ]
+    },
+    "pelispedia": {
+      "version": 116,
+      "files": [
+        "pelispedia_peliculas.db",
+        "pelispedia_series.db",
+        "pelispedia_anime.db"
+      ]
+    }
+  }
 }

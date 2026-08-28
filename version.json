@@ -1,5 +1,5 @@
 {
-  "version": 116,
+  "version": 117,
   "sources": {
     "cuevana": {
       "version": 116,
@@ -9,7 +9,7 @@
       ]
     },
     "pelisjuanita": {
-      "version": 116,
+      "version": 117,
       "files": [
         "pelisjuanita_peliculas.db",
         "pelisjuanita_series.db"

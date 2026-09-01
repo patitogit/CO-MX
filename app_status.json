@@ -2,7 +2,7 @@
   "cinehax": {
     "free_access": true,
     "use_real_user_agent": true,
-    "tiempo_max_anuncio_segundos": 35,
+    "tiempo_max_anuncio_segundos": 50,
     "anuncios_por_sesion": 2,
     "anuncios_pip": 2,
     "bloqueo_mensaje": "En este momento no tenemos anuncios disponibles de ningún patrocinador. Por el momento, el acceso está reservado únicamente para usuarios Premium para cubrir los costos de servidor.\n\n🎁 Escanea el código QR para reclamar 7 días Premium GRATIS (si no los has usado), o adquiere tu pase definitivo con un donativo de tu elección.\n\n⏳ De lo contrario, si ya usaste tu prueba o prefieres no donar, por favor ten un poco de paciencia y espera algunas horas a que el acceso gratuito vuelva a estar disponible."

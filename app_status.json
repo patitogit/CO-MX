@@ -1,7 +1,7 @@
 {
   "cinehax": {
     "free_access": true,
-    "use_real_user_agent": true,
+    "use_real_user_agent": false,
     "tiempo_max_anuncio_segundos": 50,
     "anuncios_por_sesion": 2,
     "anuncios_pip": 2,
@@ -17,7 +17,7 @@
   },
   "modocine": {
     "free_access": true,
-    "use_real_user_agent": true,
+    "use_real_user_agent": false,
     "tiempo_max_anuncio_segundos": 30,
     "anuncios_por_sesion": 2,
     "anuncios_pip": 2,

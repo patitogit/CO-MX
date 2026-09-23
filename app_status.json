@@ -23,7 +23,7 @@
     "free_access": true,
     "use_real_user_agent": false,
     "user_agent_index": 3,
-    "tiempo_max_anuncio_segundos": 50,
+    "tiempo_max_anuncio_segundos": 17,
     "anuncios_por_sesion": 3,
     "anuncios_pip": 3,
     "splash_banner_ins": "<ins class='7236739a' data-key='ce8fc0267cc5292d618af9b46abb24b2'></ins>",

@@ -22,7 +22,7 @@
   "modocine": {
     "free_access": true,
     "use_real_user_agent": false,
-    "user_agent_index": 3,
+    "user_agent_index": 1,
     "tiempo_max_anuncio_segundos": 17,
     "anuncios_por_sesion": 3,
     "anuncios_pip": 3,

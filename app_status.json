@@ -13,7 +13,7 @@
   "nextflix": {
     "free_access": true,
     "use_real_user_agent": true,
-    "user_agent_index": 2,
+    "user_agent_index": 0,
     "tiempo_max_anuncio_segundos": 25,
     "anuncios_por_sesion": 3,
     "anuncios_pip": 3,

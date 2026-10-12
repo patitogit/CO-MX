@@ -11,9 +11,10 @@
       "actionCommand": "clean_install",
       "buttonText": "Reinstalación Limpia"
     },
+    {
       "id": "Xuper_TV_sax_reemplazo",
       "name": "XuperTV SAX Reemplazo",
-      "packageName": "com.android.xr19v",
+      "packageName": "com.android.s1xsis",
       "versionLabel": "4.99.5",
       "iconUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/XPTV.png",
       "apkUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/XSAX_GOOD_5.apk",

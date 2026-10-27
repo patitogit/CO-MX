@@ -8,13 +8,13 @@
   "mirrors": {
     "api_wp": ["https://cuevana.gs", "https://www.poseidonhd2.co"],
     "nextjs": ["https://www.cuevana8.eu"],
-    "streamwish": ["hanerix.com", "masukestin.com", "audinifer.com", "vibuxer.com", "hgplaycdn.com"],
+    "streamwish": ["hanerix.com", "hgplaycdn.com", "audinifer.com", "vibuxer.com", "medixiru.com", "niramirus.com", "playnixes.com"],
     "filelions": ["callistanise.com", "filelions.to", "filelions.site"],
     "vidhide": ["callistanise.com", "vidhidepro.com", "vidhide.com", "pahe.win"],
     "voe": ["garylargeavailable.com", lauradaydo.com", "crystaltreatmenteast.com"]
   },
   "priorities": [
-    "dood", "voe", "streamwish", "vidhide", "earnvids", "vimeos", "filelions", "filemoon", "byse"
+    "vidhide", "dood", "voe", "streamwish", "earnvids", "vimeos", "filelions", "filemoon", "byse"
   ],
   "magic_vars": {
     "nuupload_default_magic": 798615,

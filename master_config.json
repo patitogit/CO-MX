@@ -12,10 +12,11 @@
     "filelions": ["callistanise.com", "filelions.to", "filelions.site"],
     "vidhide": ["callistanise.com", "vidhidepro.com", "vidhide.com", "pahe.win"],
     "voe": ["garylargeavailable.com", lauradaydo.com", "crystaltreatmenteast.com"],
-    "vidara": ["vidara.to", "vidara.so", "ano.cx", "bufsao.com"]
+    "vidara": ["vidara.to", "vidara.so", "ano.cx", "bufsao.com"],
+    "mixdrop": ["mixdrop", "mxdrop", "m1xdrop", "miiixdrop", "miixdrop", "md3"]
   },
   "priorities": [
-     "vimeos", "voe", "dood", "streamwish", "vidhide", "earnvids", "filelions",  "filemoon", "byse"
+     "vimeos", "voe", "dood", "streamwish", "vidhide", "earnvids", "filelions", "vidara, "mixdrop", "filemoon", "byse"
   ],
   "magic_vars": {
     "nuupload_default_magic": 798615,

@@ -2,7 +2,7 @@
   "version": 144,
   "sources": {
     "cuevana": {
-      "version": 126,
+      "version": 184,
       "files": [
         "cuevana_peliculas.db",
         "cuevana_series.db"

@@ -16,7 +16,7 @@
     "mixdrop": ["mixdrop", "mxdrop", "m1xdrop", "miiixdrop", "miixdrop", "md3"]
   },
   "priorities": [
-     "vidara", "vimeos", "voe", "dood", "streamwish", "vidhide", "earnvids", "filelions", "vidara", "mixdrop", "filemoon", "byse"
+     "mixdrop", "vidara", "vimeos", "voe", "dood", "streamwish", "vidhide", "earnvids", "filelions", "vidara", "mixdrop", "filemoon", "byse"
   ],
   "magic_vars": {
     "nuupload_default_magic": 798615,

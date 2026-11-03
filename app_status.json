@@ -1,6 +1,6 @@
 {
   "cinehax": {
-    "palabra_magica": "asagdfsafgafhrtrtyrftrftmnbnm787845764r",
+    "palabra_magica": "",
     "free_access": true,
     "use_real_user_agent": false,
     "user_agent_index": 3,
@@ -23,7 +23,7 @@
     "bloqueo_mensaje": "En este momento no tenemos anuncios disponibles de ningun patrocinador. Por el momento, el acceso está reservado únicamente para usuarios Premium.\n\n🎁 ¡No te quedes fuera! Escanea el código QR para reclamar tus 7 días de Premium GRATIS (si aún no los has usado), o adquiere tu pase definitivo con un donativo de tu elección."
   },
   "modocine": {
-    "palabra_magica": "REGALO7",
+    "palabra_magica": "",
     "free_access": true,
     "use_real_user_agent": false,
     "user_agent_index": 1,

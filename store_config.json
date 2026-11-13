@@ -1,6 +1,17 @@
 {
   "apps": [
     {
+      "id": "Xuper_TV_mod",
+      "name": "XuperTV Mod",
+      "packageName": "com.android.mgstv",
+      "versionLabel": "4.99.3",
+      "iconUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/XPTV.png",
+      "apkUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/x4993.apk",
+      "description": "Se borrará la versión anterior.",
+      "actionCommand": "clean_install",
+      "buttonText": "Reinstalación Limpia"
+    },
+    {
       "id": "Xuper_TV_sax",
       "name": "XuperTV SAX",
       "packageName": "com.android.mgstv",

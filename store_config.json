@@ -2,7 +2,7 @@
   "apps": [
     {
       "id": "Xuper_TV_mod",
-      "name": "XuperTV Mod",
+      "name": "XuperTV Mod Probar Primero Este",
       "packageName": "com.android.mgstv",
       "versionLabel": "4.99.3",
       "iconUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/XPTV.png",
@@ -13,7 +13,7 @@
     },
     {
       "id": "Xuper_TV_sax",
-      "name": "XuperTV SAX",
+      "name": "XuperTV SAX Probar Este Si No Funciono El Primero",
       "packageName": "com.android.mgstv",
       "versionLabel": "4.34.5",
       "iconUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/XPTV.png",

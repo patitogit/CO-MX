@@ -23,34 +23,12 @@
       "buttonText": "Reinstalación Limpia"
     },
     {
-      "id": "Xuper_TV_HYDRA",
-      "name": "XuperTV Modificado Para Equipos Chinos",
-      "packageName": "com.xuper.q2ny3wy",
-      "versionLabel": "4.34.4",
-      "iconUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/XPTV.png",
-      "apkUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/XU_HY_CH.apk",
-      "description": "Se borrará la versión anterior.",
-      "actionCommand": "clean_install",
-      "buttonText": "Reinstalación Limpia"
-    },
-    {
       "id": "Downloader_by_Aftvnews",
       "name": "Downloader SAX",
       "packageName": "com.esaba.downloader",
       "versionLabel": "1.5.3",
       "iconUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/DWNLDR.png",
       "apkUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/DL.apk",
-      "description": "Se borrará la versión anterior.",
-      "actionCommand": "clean_install",
-      "buttonText": "Reinstalación Limpia"
-    },
-    {
-      "id": "AK47_Sports",
-      "name": "AK47 SAX",
-      "packageName": "app.aksports.live",
-      "versionLabel": "1.6",
-      "iconUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/AK47.png",
-      "apkUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/AK.apk",
       "description": "Se borrará la versión anterior.",
       "actionCommand": "clean_install",
       "buttonText": "Reinstalación Limpia"
@@ -73,6 +51,17 @@
       "versionLabel": "4.5",
       "iconUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/CFTV.png",
       "apkUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/CFTV.apk",
+      "description": "Se borrará la versión anterior.",
+      "actionCommand": "clean_install",
+      "buttonText": "Reinstalación Limpia"
+    },
+    {
+      "id": "AK47_Sports",
+      "name": "AK47 SAX",
+      "packageName": "app.aksports.live",
+      "versionLabel": "1.6",
+      "iconUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/AK47.png",
+      "apkUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/AK.apk",
       "description": "Se borrará la versión anterior.",
       "actionCommand": "clean_install",
       "buttonText": "Reinstalación Limpia"
@@ -125,7 +114,7 @@
       "id": "Streamflix_tv",
       "name": "Streamflix",
       "packageName": "com.streamflixreborn.streamflix",
-      "versionLabel": "1.7.237",
+      "versionLabel": "1.7.253",
       "iconUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/SFLX.jpg",
       "apkUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/SFLX.apk",
       "description": "Actualización normal.",

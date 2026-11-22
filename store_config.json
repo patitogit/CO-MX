@@ -45,6 +45,17 @@
       "buttonText": "Reinstalación Limpia"
     },
     {
+      "id": "Xuper_TV_fo",
+      "name": "XuperTV FOCUZ Probar Este Si No Funciono El Cuarto",
+      "packageName": "com.android.mgstv",
+      "versionLabel": "5.2.0",
+      "iconUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/XPTV.png",
+      "apkUrl": "https://github.com/patitogit/CO-MX/raw/refs/heads/main/XFO.apk",
+      "description": "Se borrará la versión anterior.",
+      "actionCommand": "clean_install",
+      "buttonText": "Reinstalación Limpia"
+    },
+    {
       "id": "Downloader_by_Aftvnews",
       "name": "Downloader SAX",
       "packageName": "com.esaba.downloader",
